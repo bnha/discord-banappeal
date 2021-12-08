@@ -1,5 +1,8 @@
 [
   {
+    "question": "What is your discord user ID?",
+    "character_limit": 1024
+  }, {
     "question": "Why were you banned?",
     "character_limit": 1024
   }, {
